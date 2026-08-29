@@ -1,0 +1,6 @@
+{
+  "name": "Mochileiros - Criador de Tabuleiro de Viagem",
+  "description": "Mapa múndi interativo para criação e balanceamento de tabuleiro de jogo de mochileiros com fusão inteligente de fronteiras, alternância ligar/desligar e rótulos por aproximação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
